@@ -1,0 +1,6 @@
+mem0==0.1.104
+langchain==0.3.9
+langchain-neo4j==0.3.0
+qdrant-client==1.10.1    # ← 与现有 collection 匹配
+numpy<2,>=1.26.4
+openai[streaming]
